@@ -7,3 +7,4 @@ const answer = prompt("Skok let", "");
 if (answer >= 17){
     alert(`${answer}`);
 }
+//problems//
